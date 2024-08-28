@@ -1,0 +1,11 @@
+{
+  "checkedBlock": ".modal-block-content",
+  "content": "проверочный текст в содержании урока",
+  "url1": "https://autotestsshorokhova.eshorohova.gcrc.ru/pl/teach/control/lesson/view?id=",
+  "url2": "&editMode=0",
+  "urlNotReachedLesson": "https://autotestsshorokhova.eshorohova.gcrc.ru/pl/teach/control/lesson/not-reached?id=",
+  "panelNotReached": ".standard-page-content",
+  "answerField": "#LessonAnswer_answer_text",
+  "sendAnswer": ".btn[name='send-answer']",
+  "editAnswer": ".answer-edit-link"
+}

@@ -1,0 +1,12 @@
+{
+  "flashSuccessText": "Настройки сохранены",
+  "noMainTeacher": "<не выбран>",
+  "selectedMainTeacher": "#Training_main_teacher_id",
+  "noAdditionalTeachers": "#no-selected-teachers",
+  "noAdditionalTeachersText": "Дополнительные преподаватели не выбраны",
+  "allEmployees": ".all-link",
+  "additionalTeachers": "#additional-teachers",
+  "additionalOptions": "#settings-link",
+  "trainingName": "#Training_title",
+  "trainingDescription": "#Training_description"
+}

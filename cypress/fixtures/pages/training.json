@@ -1,0 +1,12 @@
+{
+  "reachedLessonWithMission": ".user-state-has_mission",
+  "notReachedLesson": ".user-state-not_reached",
+  "reachedLesson": ".user-state-reached",
+  "answeredLesson": ".user-state-answered",
+  "accomplishedLesson": ".user-state-accomplished",
+  "needAccomplish": ".user-state-need_accomplish",
+  "labelMission": "Есть задание",
+  "findLessonById": ".lesson-id-",
+  "findTrainingById": "[data-training-id=",
+  "trainingViewUrl": "https://autotestsshorokhova.eshorohova.gcrc.ru/teach/control/stream/view/id/"
+}

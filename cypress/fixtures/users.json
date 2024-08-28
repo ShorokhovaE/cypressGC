@@ -1,0 +1,18 @@
+{
+  "users": {
+    "email1": "ru2hm@yandex.ru",
+    "email2": "stas@test.ru",
+    "email3": "yana@test.ru",
+    "email4": "maksim@test.ru",
+    "email5": "anton@test.ru",
+    "email6": "mariarty@test.ru",
+    "email7": "sherlok@test.ru",
+    "email8": "vatson@test.ru",
+    "email9": "mary@test.ru",
+    "email10": "sheldon@test.ru",
+    "email11": "penny@test.ru",
+    "email12": "leonard@test.ru",
+    "teacher": "teacher@test.ru",
+    "admin": "admin@yandex.ru"
+  }
+}

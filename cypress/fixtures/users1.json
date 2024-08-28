@@ -1,0 +1,44 @@
+{
+  "teacher": {
+    "email": "teacher@test.ru"
+  },
+  "admin": {
+    "email": "admin@yandex.ru"
+  },
+  "lena": {
+    "email": "ru2hm@yandex.ru"
+  },
+  "stas": {
+    "email": "stas@test.ru"
+  },
+  "yana": {
+    "email": "yana@test.ru"
+  },
+  "maksim": {
+    "email": "maksim@test.ru"
+  },
+  "anton": {
+    "email": "anton@test.ru"
+  },
+  "mariarty": {
+    "email": "mariarty@test.ru"
+  },
+  "sherlok": {
+    "email": "sherlok@test.ru"
+  },
+  "vatson": {
+    "email": "vatson@test.ru"
+  },
+  "mary": {
+    "email": "mary@test.ru"
+  },
+  "sheldon": {
+    "email": "sheldon@test.ru"
+  },
+  "penny": {
+    "email": "penny@test.ru"
+  },
+  "leonard": {
+    "email": "leonard@test.ru"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "login": ".xdget-form-field-email:first",
+  "password": ".xdget-form-field-password",
+  "logined": ".gc-user-logined"
+}

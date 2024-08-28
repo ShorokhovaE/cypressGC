@@ -1,0 +1,20 @@
+{
+  "name": "first_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run",
+    "cy:dashboard": "npx cypress run --record --key 6c6eb1a8-f791-4aaa-bfe7-2aacc48fdeb5",
+    "cy:run:first": "npx cypress run --spec '/Users/elenasorohova/Desktop/autotests/cypress-1/cypress/e2e/first.cy.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.2"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}
